@@ -1,6 +1,1 @@
-mkdir -p src
-git mv App.tsx src/App.tsx
-git mv index.tsx src/main.tsx
-git mv components src/components
-git mv pages src/pages
-git mv services src/services
+
