@@ -1,7 +1,7 @@
 
 import React from 'react';
 import { MessageCircle, X, Send, Bot, User, Minimize2, Sparkles, AlertCircle, Shield } from 'lucide-react';
-import { chatWithSentinel } from '../services/geminiService';
+import { chatWithSentinel } from 'src/services/geminiService';
 import { Message } from '../types';
 
 const Chatbot: React.FC = () => {
